@@ -1,0 +1,26 @@
+{
+ "n_raw": 253680,
+ "n_missing": 0,
+ "n_dup": 24206,
+ "n_clean": 229474,
+ "pos_clean": 35097,
+ "pos_rate": 0.1529454317264701,
+ "n_train": 183579,
+ "n_test": 45895,
+ "pos_train": 28078,
+ "pos_test": 7019,
+ "n_train_st": 306942,
+ "st_counts": [
+  153471,
+  153471
+ ],
+ "st_seconds": 149.1,
+ "frac_binary_rows_st": 6104,
+ "n_train_std": 305994,
+ "std_counts": [
+  152997,
+  152997
+ ],
+ "std_seconds": 147.3,
+ "best_F": "RandomForest_F"
+}
